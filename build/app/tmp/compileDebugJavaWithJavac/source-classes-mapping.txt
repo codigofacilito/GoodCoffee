@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/goodcoffee/BuildConfig.java
+ com.example.goodcoffee.BuildConfig

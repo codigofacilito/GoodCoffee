@@ -1,0 +1,4 @@
+#Thu Mar 25 06:21:54 CST 2021
+base.0=/Users/marines/Documents/Flutter/proyectos/goodcoffee/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
